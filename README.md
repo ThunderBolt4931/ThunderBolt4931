@@ -2,9 +2,9 @@
 Welcome to my GitHub profile! I'm a second-year student at IIT Indore with a deep passion for Machine Learning, particularly in Generative AI. My work focuses on creating and optimizing AI systems that leverage generative models to tackle complex, real-world challenges innovatively and efficiently. I’m also an enthusiastic DSA solver, constantly improving my problem-solving skills.
 ________________________________________
 # About Me
-•	Current Education: B.Tech. at IIT Indore
-•	Interests: Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and Backend Development.
-•	Current Focus: Enhancing my expertise in AI by building scalable ML systems and contributing to impactful projects.
+-<ins>Current Education</ins>: B.Tech. at IIT Indore
+-<ins>Interests</ins>: Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and Backend Development.
+-<ins>Current Focus</ins>: Enhancing my expertise in AI by building scalable ML systems and contributing to impactful projects.
 ________________________________________
 # Machine Learning Projects
 **LinkedIN Profile Generator**
