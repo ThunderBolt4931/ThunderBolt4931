@@ -7,7 +7,7 @@ ________________________________________
 •	Current Focus: Enhancing my expertise in AI by building scalable ML systems and contributing to impactful projects.
 ________________________________________
 # Machine Learning Projects
-# LinkedIN Profile Generator
+**LinkedIN Profile Generator**
 Developed a professional image generation pipeline using OstrisAI Toolkit and Stable Diffusion by transforming casual user images into high-quality, stylized outputs. Implemented an end-to-end workflow with image captioning to enhance model accuracy, streamlining the creative process for enhanced visual content production.
 Agent of Justice 
 Engineered a courtroom simulation system called ’Agent of Justice’ using large language models (LLMs), where one model orchestrated procedural flow—deciding who speaks and what actions follow—while another generated contextual dialogue responses. Integrated the system into an interactive Gradio framework, enabling realistic legal proceedings and AI-driven role-play.
