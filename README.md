@@ -15,7 +15,8 @@ Agent of Justice
 Engineered a courtroom simulation system called ’Agent of Justice’ using large language models (LLMs), where one model orchestrated procedural flow—deciding who speaks and what actions follow—while another generated contextual dialogue responses. Integrated the system into an interactive Gradio framework, enabling realistic legal proceedings and AI-driven role-play.
 ________________________________________
 ### Technical Skills
-- Programming:Python, C++, SQL • Extra skills:DSA, Web Scraping
+- Programming:Python, C++, SQL
+- Extra skills:DSA, Web Scraping
 - Tools/Framework:TensorFlow, PyTorch, OpenCV, Mediapipe, BeautifulSoup, Transformers, Diffusers
 - Operating System:Windows, Linux
 
