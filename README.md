@@ -1,4 +1,4 @@
-#+++9*/- Hi there! 👋 I'm Vansh Ruhela
+#Hi there! 👋 I'm Vansh Ruhela
 Welcome to my GitHub profile! I'm a first-year student at IIT Indore with a deep passion for Machine Learning, particularly in Generative AI. My work focuses on creating and optimizing AI systems that leverage generative models to tackle complex, real-world challenges innovatively and efficiently. I’m also an enthusiastic DSA solver, constantly improving my problem-solving skills.
 
 ---
