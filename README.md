@@ -13,26 +13,78 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 - Current Focus: Enhancing my expertise in AI by building scalable ML systems and contributing to impactful projects.
 
 ---
-## Machine Learning Projects
-### LinkedIN Profile Generator
+## 🛠️ Tech Stack
+### Programming Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+
+### Data Science & Analysis
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/STATSMODELS-5C8DBE?style=for-the-badge)
+![NetworkX](https://img.shields.io/badge/NETWORKX-000000?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-white?style=for-the-badge&logo=python&logoColor=black)
+![Seaborn](https://img.shields.io/badge/SEABORN-777777?style=for-the-badge)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/PYDANTIC-E92063?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BEAUTIFULSOUP-000000?style=for-the-badge)
+![Scrapy](https://img.shields.io/badge/SCRAPY-60A839?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WEBSOCKETS-000000?style=for-the-badge)
+
+### Deep Learning & AI Frameworks
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Generative AI & LLMs
+![Transformers](https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge)
+![Diffusers](https://img.shields.io/badge/DIFFUSERS-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/GROQ-FF4A4A?style=for-the-badge)
+
+### Computer Vision & Detection
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-0097A7?style=for-the-badge)
+
+### AI Agents & Automation
 ![CrewAI](https://img.shields.io/badge/CREWAI-ff5f5f?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MODEL%20CONTEXT%20PROTOCOL-5e2b97?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LANGGRAPH-1f4d4d?style=for-the-badge)
 
-Developed a professional image generation pipeline using OstrisAI Toolkit and Stable Diffusion by transforming casual user images into high-quality, stylized outputs. Implemented an end-to-end workflow with image captioning to enhance model accuracy, streamlining the creative process for enhanced visual content production.
-Agent of Justice 
-Engineered a courtroom simulation system called ’Agent of Justice’ using large language models (LLMs), where one model orchestrated procedural flow—deciding who speaks and what actions follow—while another generated contextual dialogue responses. Integrated the system into an interactive Gradio framework, enabling realistic legal proceedings and AI-driven role-play.
+### Development Tools
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ContentCreator – AI Marketing Content Creator
-Participated in [**Agents MCP Hackathon**](https://huggingface.co/Agents-MCP-Hackathon) by HuggingFace and Developed an **AI Marketing Content Creator** using Gradio and MCP (Model Context Protocol).  
-Integrated multiple AI tools as modular functions on an MCP server, enabling dynamic tool invocation from the frontend. Implemented prompt generation using the Mistral API for crafting high-quality marketing & content text. Connected image generation tools (via HuggingFace/Flux1.dev) to create poster visuals optimized for different social media platforms based on prompts. Deployed the entire system on H200 GPU provided by **Modal Labs** for fast and scalable inference. Designed the architecture to be modular, allowing future multi-tool expansion without frontend changes. The app runs fully through dynamic tool calls, with no AI logic hardcoded in the UI layer.  
-**Live Demo:** [**AI Marketing Content Creator**](https://huggingface.co/spaces/Agents-MCP-Hackathon/AI-Marketing-Content-Creator) 
+### UI Frameworks & Tools
+![ComfyUI](https://img.shields.io/badge/COMFYUI-ff6fae?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/GRADIO-FF7F00?style=for-the-badge&logo=gradio&logoColor=white)
 
+### Deployment Platforms
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
----
-### Technical Skills
-- Programming:Python, C++, SQL
-- Extra skills:DSA, Web Scraping
-- Tools/Framework:TensorFlow, PyTorch, OpenCV, Mediapipe, BeautifulSoup, Transformers, Diffusers, Gradio, ModelContextProtocol
-- Operating System:Windows, Linux
+### Infrastructure & Orchestration
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Modal](https://img.shields.io/badge/MODAL-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/N8N-FF6D91?style=for-the-badge&logo=n8n&logoColor=white)
+
+## Github Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&theme=github_dark)
+## Connect With Me
+- 📧 **Email:** [sattyashtikar@gmail.com](mailto:rajputvansh4391@gmail.com)
+- 💼 **LinkedIn:** [Satyam Ashtikar](https://www.linkedin.com/in/vansh-ruhela-707889262)
+- 🧑‍💻 **GitHub:** [@CoderSATTY](https://github.com/ThunderBolt4931)
+
+![Profile Views](https://komarev.com/ghpvc/?username=CoderSATTY&label=PROFILE%20VIEWS&color=6f42c1&style=for-the-badge)
 
