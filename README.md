@@ -4,8 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThunderBolt4931)
 
 
-Welcome to my GitHub profile! I'm a Second-year student at IIT Indore with a deep passion for Machine Learning, particularly in Generative AI. My work focuses on creating and optimizing AI systems that leverage generative models to tackle complex, real-world challenges innovatively and efficiently. I’m also an enthusiastic DSA solver, constantly improving my problem-solving skills.
-
+Welcome to my GitHub profile!
+I’m a second-year student at IIT Indore deeply interested in Machine Learning and Generative AI. My work revolves around building and optimizing scalable, production-ready AI systems that apply generative models to address real-world challenges. In parallel, I’m an enthusiastic DSA practitioner, consistently improving my problem-solving, logic-building, and algorithmic thinking abilities.
 ---
 ## About Me
 - Current Education: B.Tech. in Mechanical Engineering at IIT Indore
