@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThunderBolt4931)
 
 
-Welcome to my GitHub profile! I'm a first-year student at IIT Indore with a deep passion for Machine Learning, particularly in Generative AI. My work focuses on creating and optimizing AI systems that leverage generative models to tackle complex, real-world challenges innovatively and efficiently. I’m also an enthusiastic DSA solver, constantly improving my problem-solving skills.
+Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a deep passion for Machine Learning, particularly in Generative AI. My work focuses on creating and optimizing AI systems that leverage generative models to tackle complex, real-world challenges innovatively and efficiently. I’m also an enthusiastic DSA solver, constantly improving my problem-solving skills.
 
 ---
 ## About Me
@@ -15,6 +15,10 @@ Welcome to my GitHub profile! I'm a first-year student at IIT Indore with a deep
 ---
 ## Machine Learning Projects
 ### LinkedIN Profile Generator
+![CrewAI](https://img.shields.io/badge/CREWAI-ff5f5f?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MODEL%20CONTEXT%20PROTOCOL-5e2b97?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1f4d4d?style=for-the-badge)
+
 Developed a professional image generation pipeline using OstrisAI Toolkit and Stable Diffusion by transforming casual user images into high-quality, stylized outputs. Implemented an end-to-end workflow with image captioning to enhance model accuracy, streamlining the creative process for enhanced visual content production.
 Agent of Justice 
 Engineered a courtroom simulation system called ’Agent of Justice’ using large language models (LLMs), where one model orchestrated procedural flow—deciding who speaks and what actions follow—while another generated contextual dialogue responses. Integrated the system into an interactive Gradio framework, enabling realistic legal proceedings and AI-driven role-play.
