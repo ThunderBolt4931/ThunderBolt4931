@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 ![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-0097A7?style=for-the-badge)
 
 ### AI Agents & Automation
-![CrewAI](https://img.shields.io/badge/CREWAI-ff5f5f?style=for-the-badge)
+![AgnoAI](https://img.shields.io/badge/AGNOAI-5A2D82?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MODEL%20CONTEXT%20PROTOCOL-5e2b97?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LANGGRAPH-1f4d4d?style=for-the-badge)
 
@@ -73,6 +73,7 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 ### Deployment Platforms
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
 
 ### Infrastructure & Orchestration
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,7 +81,8 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 ![n8n](https://img.shields.io/badge/N8N-FF6D91?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## Github Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+
 ## Connect With Me
 - 📧 **Email:** [rajputvansh4391@gmail.com](mailto:rajputvansh4391@gmail.com)
 - 💼 **LinkedIn:** [Vansh Ruhela](https://www.linkedin.com/in/vansh-ruhela-707889262)
