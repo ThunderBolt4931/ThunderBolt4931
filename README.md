@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 ![Seaborn](https://img.shields.io/badge/SEABORN-777777?style=for-the-badge)
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/PYDANTIC-E92063?style=for-the-badge)
@@ -78,7 +78,6 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 ### Infrastructure & Orchestration
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Modal](https://img.shields.io/badge/MODAL-000000?style=for-the-badge)
-![n8n](https://img.shields.io/badge/N8N-FF6D91?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## Github Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
