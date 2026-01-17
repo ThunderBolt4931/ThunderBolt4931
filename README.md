@@ -82,9 +82,9 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 ## Github Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&theme=github_dark)
 ## Connect With Me
-- 📧 **Email:** [sattyashtikar@gmail.com](mailto:rajputvansh4391@gmail.com)
-- 💼 **LinkedIn:** [Satyam Ashtikar](https://www.linkedin.com/in/vansh-ruhela-707889262)
-- 🧑‍💻 **GitHub:** [@CoderSATTY](https://github.com/ThunderBolt4931)
+- 📧 **Email:** [rajputvansh4391@gmail.com](mailto:rajputvansh4391@gmail.com)
+- 💼 **LinkedIn:** [Vansh Ruhela](https://www.linkedin.com/in/vansh-ruhela-707889262)
+- 🧑‍💻 **GitHub:** [@ThunderBolt4931](https://github.com/ThunderBolt4931)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThunderBolt4931&label=PROFILE%20VIEWS&color=6f42c1&style=for-the-badge)
 
