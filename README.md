@@ -86,5 +86,5 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 - 💼 **LinkedIn:** [Satyam Ashtikar](https://www.linkedin.com/in/vansh-ruhela-707889262)
 - 🧑‍💻 **GitHub:** [@CoderSATTY](https://github.com/ThunderBolt4931)
 
-![Profile Views](https://komarev.com/ghpvc/?username=CoderSATTY&label=PROFILE%20VIEWS&color=6f42c1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ThunderBolt4931&label=PROFILE%20VIEWS&color=6f42c1&style=for-the-badge)
 
