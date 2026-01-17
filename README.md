@@ -80,7 +80,8 @@ Welcome to my GitHub profile! I'm a Secons-year student at IIT Indore with a dee
 ![Modal](https://img.shields.io/badge/MODAL-000000?style=for-the-badge)
 
 ## Github Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&theme=github_dark)
+
 
 ## Connect With Me
 - 📧 **Email:** [rajputvansh4391@gmail.com](mailto:rajputvansh4391@gmail.com)
