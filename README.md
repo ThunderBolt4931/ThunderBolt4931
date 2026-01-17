@@ -1,7 +1,11 @@
 # Hi there! 👋 I'm Vansh Ruhela
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-ruhela-707889262)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputvansh4391@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThunderBolt4391)
+[![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThunderBolt4931)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
 
 Welcome to my GitHub profile! I'm a first-year student at IIT Indore with a deep passion for Machine Learning, particularly in Generative AI. My work focuses on creating and optimizing AI systems that leverage generative models to tackle complex, real-world challenges innovatively and efficiently. I’m also an enthusiastic DSA solver, constantly improving my problem-solving skills.
 
