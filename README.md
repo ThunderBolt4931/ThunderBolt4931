@@ -2,11 +2,9 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-ruhela-707889262)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputvansh4391@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThunderBolt4931)
-
-
-Welcome to my GitHub profile!
-I’m a second-year student at IIT Indore deeply interested in Machine Learning and Generative AI. My work revolves around building and optimizing scalable, production-ready AI systems that apply generative models to address real-world challenges. In parallel, I’m an enthusiastic DSA practitioner, consistently improving my problem-solving, logic-building, and algorithmic thinking abilities.
 ---
+Welcome to my GitHub profile!
+I’m a second-year student at IIT Indore with a strong passion for **Machine Learning**, especially **Generative AI**. I focus on designing, building, and optimizing scalable AI systems that leverage generative models to solve complex, real-world problems in innovative and efficient ways. Alongside this, I actively strengthen my foundations in **Data Structures and Algorithms**, continuously refining my logical thinking and problem-solving skills.
 ## About Me
 - Current Education: B.Tech. in Mechanical Engineering at IIT Indore
 - Interests: Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Computer Vision, and Backend Development.
