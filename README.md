@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Vansh Ruhela
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-ruhela-707889262)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ThunderBolt32/)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputvansh4391@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThunderBolt4931)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-ruhela-707889262)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ThunderBolt32/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputvansh4391@gmail.com)
+
 ---
 Welcome to my GitHub profile!
 I’m a second-year student at IIT Indore with a strong passion for **Machine Learning**, especially **Generative AI**. I focus on designing, building, and optimizing scalable AI systems that leverage generative models to solve complex, real-world problems in innovative and efficient ways. Alongside this, I actively strengthen my foundations in **Data Structures and Algorithms**, continuously refining my logical thinking and problem-solving skills.
